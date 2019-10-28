@@ -1,3 +1,5 @@
+🚨 No longer maintained. Moved to [nodemod](https://github.com/motss/nodemod). 🚨
+
 <div align="center" style="text-align: center;">
   <h1 style="border-bottom: none;">node_mod</h1>
 
